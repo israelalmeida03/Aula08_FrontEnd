@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); 
+
+body {
+    background-color:  #131313;
+}
+h1{
+    color: white;
+    font-family: Roboto;
+}
+.media-picture{
+    height: 400px;
+    max-width: 100%;
+    background-image: url('https://staticr1.blastingcdn.com/media/photogallery/2019/4/22/660x290/b_502x220/10-coisas-incriveis-sobre-os-vingadores-fotoreproducao-blasting-news_2252589.jpg');
+    background-size: cover;
+
+}
